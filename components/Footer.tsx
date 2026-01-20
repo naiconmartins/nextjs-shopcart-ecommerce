@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Footer = () => {
     return (
-        <footer className=''>
+        <footer className="">
             <Container>Footer</Container>
         </footer>
     )
